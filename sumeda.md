@@ -1,0 +1,12 @@
+| No. | Fitur                         | Deskripsi                                                                                                                                                      |
+| --- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | Kalender Acara                | Memungkinkan masyarakat untuk melihat jadwal acara penting seperti pertemuan warga, kegiatan sosial, atau acara budaya di wilayah Anda.                        |
+| 2.  | Info Lokal                    | Menyediakan informasi tentang tempat-tempat penting di wilayah Anda seperti rumah sakit, sekolah, kantor pos, dan tempat ibadah.                               |
+| 3.  | Pembaruan Proyek              | Memberikan pembaruan terkait proyek pembangunan atau peningkatan infrastruktur di wilayah Anda, beserta perkembangannya.                                       |
+| 4.  | Sistem Pemesanan              | Membuat sistem pemesanan untuk layanan tertentu seperti pengurusan dokumen atau reservasi tempat di fasilitas umum seperti lapangan olahraga.                  |
+| 5.  | Peta Interaktif               | Menyediakan peta interaktif yang memungkinkan masyarakat untuk menemukan lokasi penting dan juga memberikan informasi rute terbaik.                            |
+| 6.  | Informasi Kesehatan           | Menyediakan informasi kesehatan terkini, tips kesehatan, dan layanan konsultasi medis online.                                                                  |
+| 7.  | Edukasi Lingkungan            | Mengajak masyarakat untuk berpartisipasi dalam program kebersihan lingkungan dengan fitur seperti pelaporan titik-titik kritis atau jadwal pengelolaan sampah. |
+| 8.  | Program Penghargaan           | Membuat program penghargaan bagi masyarakat yang aktif berpartisipasi dalam kegiatan sosial atau proyek pembangunan.                                           |
+| 9.  | Portal Informasi Bisnis Lokal | Memberikan platform bagi pelaku usaha lokal untuk mempromosikan produk dan jasa mereka kepada masyarakat.                                                      |
+| 10. | Sarana Konsultasi             | Menyediakan sarana konsultasi langsung dengan Anda atau tim pemerintah setempat untuk pertanyaan, masukan, atau keluhan masyarakat.                            |
